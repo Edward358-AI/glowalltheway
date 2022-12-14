@@ -10,7 +10,6 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "type": "module",
   "keywords": [
     "proxy"
   ],
