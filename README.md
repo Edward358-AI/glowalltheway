@@ -9,8 +9,11 @@ cd glowalltheway
 chmod +x main.sh
 ./main.sh
 ```
+Then go to localhost:3000
+
 Run on replit:
 https://replit.com/github/Edward-358-AI/glowalltheway
+
 If replit asks you to configure the run button, delete any text and replace with "./main.sh"
 
 ZIP archive download:
